@@ -1,0 +1,13 @@
+C:\Users\RathourVinayPartapSi\OneDrive - FONDAZIONE IKAROS\Laboratorio Hardware\Visual Studio Esercizi\Esercizio_E\bin\Debug\netcoreapp3.1\Esercizio_E.exe
+C:\Users\RathourVinayPartapSi\OneDrive - FONDAZIONE IKAROS\Laboratorio Hardware\Visual Studio Esercizi\Esercizio_E\bin\Debug\netcoreapp3.1\Esercizio_E.deps.json
+C:\Users\RathourVinayPartapSi\OneDrive - FONDAZIONE IKAROS\Laboratorio Hardware\Visual Studio Esercizi\Esercizio_E\bin\Debug\netcoreapp3.1\Esercizio_E.runtimeconfig.json
+C:\Users\RathourVinayPartapSi\OneDrive - FONDAZIONE IKAROS\Laboratorio Hardware\Visual Studio Esercizi\Esercizio_E\bin\Debug\netcoreapp3.1\Esercizio_E.runtimeconfig.dev.json
+C:\Users\RathourVinayPartapSi\OneDrive - FONDAZIONE IKAROS\Laboratorio Hardware\Visual Studio Esercizi\Esercizio_E\bin\Debug\netcoreapp3.1\Esercizio_E.dll
+C:\Users\RathourVinayPartapSi\OneDrive - FONDAZIONE IKAROS\Laboratorio Hardware\Visual Studio Esercizi\Esercizio_E\bin\Debug\netcoreapp3.1\Esercizio_E.pdb
+C:\Users\RathourVinayPartapSi\OneDrive - FONDAZIONE IKAROS\Laboratorio Hardware\Visual Studio Esercizi\Esercizio_E\obj\Debug\netcoreapp3.1\Esercizio_E.vbproj.AssemblyReference.cache
+C:\Users\RathourVinayPartapSi\OneDrive - FONDAZIONE IKAROS\Laboratorio Hardware\Visual Studio Esercizi\Esercizio_E\obj\Debug\netcoreapp3.1\Esercizio_E.AssemblyInfoInputs.cache
+C:\Users\RathourVinayPartapSi\OneDrive - FONDAZIONE IKAROS\Laboratorio Hardware\Visual Studio Esercizi\Esercizio_E\obj\Debug\netcoreapp3.1\Esercizio_E.AssemblyInfo.vb
+C:\Users\RathourVinayPartapSi\OneDrive - FONDAZIONE IKAROS\Laboratorio Hardware\Visual Studio Esercizi\Esercizio_E\obj\Debug\netcoreapp3.1\Esercizio_E.vbproj.CoreCompileInputs.cache
+C:\Users\RathourVinayPartapSi\OneDrive - FONDAZIONE IKAROS\Laboratorio Hardware\Visual Studio Esercizi\Esercizio_E\obj\Debug\netcoreapp3.1\Esercizio_E.dll
+C:\Users\RathourVinayPartapSi\OneDrive - FONDAZIONE IKAROS\Laboratorio Hardware\Visual Studio Esercizi\Esercizio_E\obj\Debug\netcoreapp3.1\Esercizio_E.pdb
+C:\Users\RathourVinayPartapSi\OneDrive - FONDAZIONE IKAROS\Laboratorio Hardware\Visual Studio Esercizi\Esercizio_E\obj\Debug\netcoreapp3.1\Esercizio_E.genruntimeconfig.cache
